@@ -20,3 +20,4 @@ export default App;
 //git stash pop : it is the combination of git stash apply and git stash drop command :- combination of restores stash and delete stash 
 //git stash drop: to delete the stash which was saved by git stash command 
 //git merge otherbranchname: otherbranchname that's repo data wants to get in your repository
+//git pull branchnam: "if it's push in on github and in your system not the updated code of that branch then you give this command to update in your local system"
