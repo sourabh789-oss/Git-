@@ -4,7 +4,7 @@ function App(){
 const [name,setname]=useState("Sourabh");
 
   return (
-    <div>Hello World {name}</div>
+    <div>Hello World {name} Prajapati</div>
   )
 }
 
